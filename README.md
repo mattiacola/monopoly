@@ -1,8 +1,5 @@
 # Prova Finale di Programmazione - Monopoly
 
-Gruppo: è un 2.1 o un 2.0?<br />
-Membri: Filippo Artico, Mattia Colapietro, Giovanni Sgaravatto
-
 <hr />
 
 ### Directory structure
