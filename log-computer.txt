@@ -1,0 +1,1907 @@
+Creati 4 giocatori controllati dal computer
+
+<--------------------    INIZIO PARTITA    -------------------->
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+Dopo aver verificato che tutti abbiano lanciato dadi diversi, l'ordine di gioco sara':
+1. Giocatore 2 che ha tirato i dadi ottenendo un valore di 9
+2. Giocatore 3 che ha tirato i dadi ottenendo un valore di 8
+3. Giocatore 1 che ha tirato i dadi ottenendo un valore di 7
+4. Giocatore 4 che ha tirato i dadi ottenendo un valore di 4
+|====================    TURNO 1    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' arrivato alla casella D1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella H1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella H2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 2    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 3 e' arrivato alla casella A6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella C1
+- Giocatore 1 ha acquistato il terreno C1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' arrivato alla casella A3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 3    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella F8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A7
+- Giocatore 1 ha acquistato il terreno A7
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 4    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella H1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 5    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella E1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella F1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella H2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 6    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella A4
+- Giocatore 1 ha acquistato il terreno A4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella C8
+- Giocatore 4 ha acquistato il terreno C8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 7    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 1 e' arrivato alla casella A8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 8    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella H1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella D1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 9    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella A1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' arrivato alla casella D1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella D1
+- Giocatore 1 ha acquistato il terreno D1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A6
+- Giocatore 4 ha acquistato il terreno A6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 10    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' arrivato alla casella D8
+- Giocatore 2 ha acquistato il terreno D8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 3 e' arrivato alla casella B1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella D8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 11    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 12    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' arrivato alla casella A3
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella B1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella G1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 13    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella C8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella F1
+- Giocatore 3 ha acquistato il terreno F1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella A5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella A4
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 14    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H6
+- Giocatore 2 ha acquistato il terreno H6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella A4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 15    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella D1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella H1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 16    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella A3
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H5
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella H3
+- Giocatore 4 ha acquistato il terreno H3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 17    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella B8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella D1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella D1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 18    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella F8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H7
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 19    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 20    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' arrivato alla casella E1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella A4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella G1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 21    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella C8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha acquistato il terreno F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella D1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 22    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella A5
+- Giocatore 3 ha acquistato il terreno A5
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella A1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 23    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella E1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella B8
+- Giocatore 3 ha acquistato il terreno B8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella A7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 24    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A5
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 1 e' arrivato alla casella A5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 25    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella C8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella C1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 26    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha acquistato il terreno H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella B8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 1 e' arrivato alla casella H5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 27    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 28    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella B8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella F1
+- Giocatore 3 ha costruito una casa sul terreno F1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella E1
+- Giocatore 4 ha acquistato il terreno E1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 29    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha acquistato il terreno H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella A4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella E8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella A3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 30    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella F1
+- Giocatore 2 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H3
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella C8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 31    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 32    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 33    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' arrivato alla casella D1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella D1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella F1
+- Giocatore 1 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella E8
+- Giocatore 4 ha acquistato il terreno E8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 34    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 3 e' arrivato alla casella B8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella A3
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 35    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella B8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H3
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella C8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella B1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 36    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 3 e' arrivato alla casella A3
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H7
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 37    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 1 e' arrivato alla casella H5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 38    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 4 e' arrivato alla casella H4
+- Giocatore 4 ha acquistato il terreno H4
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 39    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella A4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella E1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 40    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' arrivato alla casella D1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella B8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 41    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella F1
+- Giocatore 2 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella A2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 42    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella B1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha acquistato il terreno G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' arrivato alla casella F8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 43    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella A6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 44    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 2 e' arrivato alla casella A8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' arrivato alla casella E1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella H1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 45    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha costruito una casa sul terreno H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella A5
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella C1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 46    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella C8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 1 e' arrivato alla casella B1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella A6
+- Giocatore 4 ha costruito una casa sul terreno A6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 47    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella A7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella D8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 48    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella E8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella G1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H5
+- Giocatore 4 ha acquistato il terreno H5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 49    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella B1
+- Giocatore 3 ha acquistato il terreno B1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella C1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 50    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 1 e' arrivato alla casella A1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 51    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella D8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella B8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 52    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella E8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella G1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 53    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' arrivato alla casella A3
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 1 e' arrivato alla casella H2
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A3
+- Giocatore 4 ha acquistato il terreno A3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 54    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 2 e' arrivato alla casella H5
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella A8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella C1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' arrivato alla casella F8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 55    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella C8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella F1
+- Giocatore 4 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 56    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' arrivato alla casella E8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella H4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 57    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H5
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella G1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 1 e' arrivato alla casella H1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 58    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella H1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 3 e' arrivato alla casella A6
+- Giocatore 3 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 1 e' arrivato alla casella A6
+- Giocatore 1 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 59    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella E1
+- Giocatore 4 ha costruito una casa sul terreno E1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 60    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella H3
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella A3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 61    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella D8
+- Giocatore 2 ha costruito una casa sul terreno D8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella C1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella C1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella B8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 62    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella G1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella A2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 1 e' arrivato alla casella D8
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' arrivato alla casella F8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 63    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella A1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella B8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 64    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella A7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella C1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' arrivato alla casella B1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 65    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella A6
+- Giocatore 1 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 12
+- Giocatore 4 e' arrivato alla casella E8
+- Giocatore 4 ha costruito una casa sul terreno E8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 66    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella H1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella B1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella F1
+- Giocatore 4 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 67    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella C1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella A6
+- Giocatore 3 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 68    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella E8
+- Giocatore 3 ha pagato 2 fiorini a giocatore 4 per pernottamento nella casella E8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella A6
+- Giocatore 1 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella D8
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 69    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H5
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H7
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H3
+- Giocatore 4 ha costruito una casa sul terreno H3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 70    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella C1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha pagato 7 fiorini a giocatore 4 per pernottamento nella casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella G1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 71    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 3 e' arrivato alla casella D8
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A3
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 72    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella E8
+- Giocatore 2 ha pagato 2 fiorini a giocatore 4 per pernottamento nella casella E8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H2
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella D8
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella D8
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 73    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha costruito una casa sul terreno H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella C1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella G1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 74    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella F1
+- Giocatore 2 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 3 e' arrivato alla casella A2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H2
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha acquistato il terreno A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 75    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 2 e' arrivato alla casella D1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella A1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 4 e' arrivato alla casella F8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 76    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella D8
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella B8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 2
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H7
+- Giocatore 4 ha pagato 2 fiorini a giocatore 2 per pernottamento nella casella H7
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 77    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H6
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella H1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 78    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella C1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha pagato 7 fiorini a giocatore 4 per pernottamento nella casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella C1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 79    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella H1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella A4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 80    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella A2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella E8
+- Giocatore 3 ha pagato 2 fiorini a giocatore 4 per pernottamento nella casella E8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella A8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella E8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 81    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella B8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H3
+- Giocatore 3 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella H3
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H2
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 82    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H3
+- Giocatore 2 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella H3
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella D1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 83    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' arrivato alla casella A3
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' arrivato alla casella A8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella D8
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 84    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella A8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella E8
+- Giocatore 3 ha pagato 2 fiorini a giocatore 4 per pernottamento nella casella E8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 85    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella E8
+- Giocatore 2 ha pagato 2 fiorini a giocatore 4 per pernottamento nella casella E8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H2
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella F1
+- Giocatore 1 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 4 e' arrivato alla casella D1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 86    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella D1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella A3
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' arrivato alla casella A2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 87    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' arrivato alla casella B1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella A4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha costruito una casa sul terreno F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella C8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 88    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 3 e' arrivato alla casella A8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H2
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H2
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 89    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella F8
+- Giocatore 3 ha pagato 2 fiorini a giocatore 1 per pernottamento nella casella F8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella C1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella B1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 90    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H2
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella A5
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 91    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 2 e' arrivato alla casella C1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella B1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella D8
+- Giocatore 1 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 92    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' arrivato alla casella A8
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 3 e' arrivato alla casella D8
+- Giocatore 3 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 4
+- Giocatore 4 e' arrivato alla casella H2
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella H2
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 93    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H5
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella E1
+- Giocatore 1 ha pagato 7 fiorini a giocatore 4 per pernottamento nella casella E1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 4 e' arrivato alla casella D1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 94    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella H2
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella F1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 1 e' arrivato alla casella A7
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 95    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 2 e' arrivato alla casella F1
+- Giocatore 2 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 3 e' arrivato alla casella A4
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella H4
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella F8
+- Giocatore 4 ha pagato 2 fiorini a giocatore 1 per pernottamento nella casella F8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 96    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 10
+- Giocatore 2 e' arrivato alla casella A6
+- Giocatore 2 ha pagato 4 fiorini a giocatore 4 per pernottamento nella casella A6
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella B8
+- Giocatore 3 ha costruito una casa sul terreno B8
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 1 e' arrivato alla casella F1
+- Giocatore 1 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 4 e' arrivato alla casella H6
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 97    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 2 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 2 e' arrivato alla casella H7
+- Giocatore 2 ha migliorato una casa in albergo sul terreno H7
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 3 e' arrivato alla casella H6
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella E1
+- Giocatore 4 ha migliorato una casa in albergo sul terreno E1
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 98    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 2 e' arrivato alla casella F1
+- Giocatore 2 ha pagato 2 fiorini a giocatore 3 per pernottamento nella casella F1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 3 e' arrivato alla casella H1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 11
+- Giocatore 1 e' arrivato alla casella F8
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 8
+- Giocatore 4 e' arrivato alla casella A5
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 99    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 2 e' arrivato alla casella C1
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 3 e' arrivato alla casella A1
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 9
+- Giocatore 1 e' passato dal via e ha ritirato 20 fiorini
+- Giocatore 1 e' arrivato alla casella G1
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella A8
+- Giocatore 4 ha finito il turno
+
+|====================    TURNO 100    ====================|
+- Giocatore 2 ha tirato i dadi ottenendo un valore di 5
+- Giocatore 2 e' arrivato alla casella A4
+- Giocatore 2 ha finito il turno
+
+- Giocatore 3 ha tirato i dadi ottenendo un valore di 6
+- Giocatore 3 e' arrivato alla casella A7
+- Giocatore 3 ha finito il turno
+
+- Giocatore 1 ha tirato i dadi ottenendo un valore di 7
+- Giocatore 1 e' arrivato alla casella A2
+- Giocatore 1 ha finito il turno
+
+- Giocatore 4 ha tirato i dadi ottenendo un valore di 3
+- Giocatore 4 e' arrivato alla casella D8
+- Giocatore 4 ha pagato 7 fiorini a giocatore 2 per pernottamento nella casella D8
+- Giocatore 4 ha finito il turno
+
+Massimo numero di turni raggiunto, giocatori in ordine di fiorini rimasti:
+- Giocatore 2 ha ancora 619 fiorini
+- Giocatore 3 ha ancora 504 fiorini
+- Giocatore 1 ha ancora 488 fiorini
+- Giocatore 4 ha ancora 483 fiorini
+
+<--------------------    FINE PARTITA    -------------------->
+- Giocatore 2 ha vinto la partita per maggior numero di fiorini rimasti
